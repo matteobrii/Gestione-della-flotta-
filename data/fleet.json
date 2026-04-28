@@ -573,7 +573,7 @@
   ],
   "history": [
     {
-      "date": "2026-04-28T10:15:08.738Z",
+      "date": "2026-04-28T10:16:26.082Z",
       "reg": "I-HELS",
       "model": "MBB-BK117",
       "fromStatus": "operative",
@@ -932,5 +932,5 @@
   "nextHeliId": 44,
   "nextColicoId": 10,
   "nextPrevisId": 9,
-  "exportDate": "2026-04-28T10:15:12.402Z"
+  "exportDate": "2026-04-28T10:16:35.770Z"
 }
