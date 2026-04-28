@@ -566,12 +566,21 @@
       "id": 43,
       "reg": "I-HELS",
       "model": "MBB-BK117",
-      "baseId": 4,
+      "baseId": 10,
       "status": "operative",
       "statusSince": "2026-04-24T14:52:27.407Z"
     }
   ],
   "history": [
+    {
+      "date": "2026-04-28T10:15:08.738Z",
+      "reg": "I-HELS",
+      "model": "MBB-BK117",
+      "fromStatus": "operative",
+      "toStatus": "operative",
+      "fromBase": "BOLZANO",
+      "toBase": "COMO"
+    },
     {
       "date": "2026-04-27T12:48:31.142Z",
       "reg": "I-KLIO",
@@ -923,5 +932,5 @@
   "nextHeliId": 44,
   "nextColicoId": 10,
   "nextPrevisId": 9,
-  "exportDate": "2026-04-28T10:12:47.090Z"
+  "exportDate": "2026-04-28T10:15:12.402Z"
 }
