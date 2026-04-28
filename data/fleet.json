@@ -446,9 +446,9 @@
       "id": 28,
       "reg": "I-PTVR",
       "model": "MBB-BK117",
-      "baseId": 29,
-      "status": "operative",
-      "statusSince": "2026-04-28T12:04:48.815Z"
+      "baseId": 9,
+      "status": "maintenance",
+      "statusSince": "2026-04-28T12:30:26.128Z"
     },
     {
       "id": 29,
@@ -572,6 +572,15 @@
     }
   ],
   "history": [
+    {
+      "date": "2026-04-28T12:30:26.128Z",
+      "reg": "I-PTVR",
+      "model": "MBB-BK117",
+      "fromStatus": "operative",
+      "toStatus": "maintenance",
+      "fromBase": "VERONA",
+      "toBase": "COLICO"
+    },
     {
       "date": "2026-04-28T12:04:48.815Z",
       "reg": "I-PTVR",
@@ -950,5 +959,5 @@
   "nextHeliId": 44,
   "nextColicoId": 10,
   "nextPrevisId": 9,
-  "exportDate": "2026-04-28T12:05:29.950Z"
+  "exportDate": "2026-04-28T12:30:31.616Z"
 }
