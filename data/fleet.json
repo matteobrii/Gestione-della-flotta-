@@ -809,6 +809,14 @@
   ],
   "colicoLog": [
     {
+      "id": 10,
+      "reg": "I-PTVR",
+      "model": "MBB-BK117",
+      "dateIn": "2026-04-28",
+      "dateOut": null,
+      "note": "Nessun WO solo bilanciamento pale"
+    },
+    {
       "id": 9,
       "reg": "I-ZANL",
       "model": "MBB-BK117",
@@ -882,6 +890,15 @@
     }
   ],
   "previsLog": [
+    {
+      "id": 9,
+      "reg": "I-PTVR",
+      "model": "MBB-BK117",
+      "dateEst": "2026-04-29",
+      "dateActual": null,
+      "note": "",
+      "createdAt": "2026-04-28"
+    },
     {
       "id": 8,
       "reg": "I-ZANL",
@@ -957,7 +974,7 @@
   ],
   "nextBaseId": 34,
   "nextHeliId": 44,
-  "nextColicoId": 10,
-  "nextPrevisId": 9,
-  "exportDate": "2026-04-28T12:30:31.616Z"
+  "nextColicoId": 11,
+  "nextPrevisId": 10,
+  "exportDate": "2026-04-28T14:20:43.434Z"
 }
