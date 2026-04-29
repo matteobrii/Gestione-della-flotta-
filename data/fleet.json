@@ -814,7 +814,7 @@
       "model": "MBB-BK117",
       "dateIn": "2026-04-28",
       "dateOut": null,
-      "note": "Nessun WO solo bilanciamento pale"
+      "note": "Bilanciamento"
     },
     {
       "id": 9,
@@ -897,7 +897,7 @@
       "dateEst": "2026-04-29",
       "dateActual": null,
       "note": "",
-      "createdAt": "2026-04-28"
+      "createdAt": "2026-04-29"
     },
     {
       "id": 8,
@@ -976,5 +976,5 @@
   "nextHeliId": 44,
   "nextColicoId": 11,
   "nextPrevisId": 10,
-  "exportDate": "2026-04-28T14:20:43.434Z"
+  "exportDate": "2026-04-29T13:29:30.530Z"
 }
