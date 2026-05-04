@@ -339,12 +339,22 @@
       "uscitaWOIniziale": "",
       "wo": "WO 24",
       "materiali": "",
-      "difetti": "",
+      "difetti": "probelem acon la rotor star",
       "situazioneAttuale": "",
       "bloccoSelezionato": "forza",
       "dipendenzeTecniche": false,
       "attesaLogistica": false,
-      "tqte": [],
+      "tqte": [
+        {
+          "id": "xygyzxshmor1w73u",
+          "tipo": "TQ",
+          "numero": "TE-2026-BK117-03155",
+          "titolo": "Consult TEchnical request - I-AHTD MRH Rotorstar oversize bearing installation",
+          "stato": "aperta",
+          "priorita": "media",
+          "data": "2026-05-04"
+        }
+      ],
       "note": ""
     },
     {
@@ -946,6 +956,7 @@
     "2026-04-25": 5,
     "2026-04-26": 5,
     "2026-04-27": 6,
-    "2026-04-28": 7
+    "2026-04-28": 7,
+    "2026-05-04": 7
   }
 }
