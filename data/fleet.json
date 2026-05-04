@@ -278,7 +278,7 @@
       "id": 7,
       "reg": "I-ANUB",
       "model": "MBB-BK117",
-      "baseId": 29,
+      "baseId": 14,
       "status": "operative",
       "statusSince": "2026-04-24T12:27:15.899Z"
     },
@@ -446,9 +446,9 @@
       "id": 28,
       "reg": "I-PTVR",
       "model": "MBB-BK117",
-      "baseId": 9,
-      "status": "maintenance",
-      "statusSince": "2026-04-28T12:30:26.128Z"
+      "baseId": 29,
+      "status": "operative",
+      "statusSince": "2026-05-04T07:08:11.910Z"
     },
     {
       "id": 29,
@@ -572,6 +572,24 @@
     }
   ],
   "history": [
+    {
+      "date": "2026-05-04T07:08:25.013Z",
+      "reg": "I-ANUB",
+      "model": "MBB-BK117",
+      "fromStatus": "operative",
+      "toStatus": "operative",
+      "fromBase": "VERONA",
+      "toBase": "FOLIGNO"
+    },
+    {
+      "date": "2026-05-04T07:08:11.909Z",
+      "reg": "I-PTVR",
+      "model": "MBB-BK117",
+      "fromStatus": "maintenance",
+      "toStatus": "operative",
+      "fromBase": "COLICO",
+      "toBase": "VERONA"
+    },
     {
       "date": "2026-04-28T12:30:26.128Z",
       "reg": "I-PTVR",
@@ -813,7 +831,7 @@
       "reg": "I-PTVR",
       "model": "MBB-BK117",
       "dateIn": "2026-04-28",
-      "dateOut": null,
+      "dateOut": "2026-04-30",
       "note": "Bilanciamento"
     },
     {
@@ -895,7 +913,7 @@
       "reg": "I-PTVR",
       "model": "MBB-BK117",
       "dateEst": "2026-04-29",
-      "dateActual": null,
+      "dateActual": "2026-04-30",
       "note": "",
       "createdAt": "2026-04-29"
     },
@@ -976,5 +994,5 @@
   "nextHeliId": 44,
   "nextColicoId": 11,
   "nextPrevisId": 10,
-  "exportDate": "2026-04-29T13:29:30.530Z"
+  "exportDate": "2026-05-04T07:10:34.669Z"
 }
