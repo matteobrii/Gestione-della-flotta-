@@ -414,9 +414,9 @@
       "id": 24,
       "reg": "I-MVRK",
       "model": "AB139/AW139",
-      "baseId": 9,
-      "status": "maintenance",
-      "statusSince": "2026-04-24T12:27:15.899Z"
+      "baseId": 10,
+      "status": "operative",
+      "statusSince": "2026-05-06T11:21:29.710Z"
     },
     {
       "id": 25,
@@ -526,9 +526,9 @@
       "id": 38,
       "reg": "I-TIKE",
       "model": "AB139/AW139",
-      "baseId": 10,
-      "status": "operative",
-      "statusSince": "2026-04-24T12:27:15.899Z"
+      "baseId": 9,
+      "status": "maintenance",
+      "statusSince": "2026-05-06T11:21:49.181Z"
     },
     {
       "id": 39,
@@ -572,6 +572,24 @@
     }
   ],
   "history": [
+    {
+      "date": "2026-05-06T11:21:49.181Z",
+      "reg": "I-TIKE",
+      "model": "AB139/AW139",
+      "fromStatus": "operative",
+      "toStatus": "maintenance",
+      "fromBase": "COMO",
+      "toBase": "COLICO"
+    },
+    {
+      "date": "2026-05-06T11:21:29.710Z",
+      "reg": "I-MVRK",
+      "model": "AB139/AW139",
+      "fromStatus": "maintenance",
+      "toStatus": "operative",
+      "fromBase": "COLICO",
+      "toBase": "COMO"
+    },
     {
       "date": "2026-05-04T07:08:25.013Z",
       "reg": "I-ANUB",
@@ -903,7 +921,7 @@
       "reg": "I-MVRK",
       "model": "AB139/AW139",
       "dateIn": "2026-04-24",
-      "dateOut": null,
+      "dateOut": "2026-05-06",
       "note": "wo 61 300h"
     }
   ],
@@ -958,7 +976,7 @@
       "reg": "I-MVRK",
       "model": "AB139/AW139",
       "dateEst": "2026-05-04",
-      "dateActual": null,
+      "dateActual": "2026-05-06",
       "note": "",
       "createdAt": "2026-04-24"
     },
@@ -994,5 +1012,5 @@
   "nextHeliId": 44,
   "nextColicoId": 11,
   "nextPrevisId": 10,
-  "exportDate": "2026-05-04T07:10:34.669Z"
+  "exportDate": "2026-05-06T11:21:55.565Z"
 }
